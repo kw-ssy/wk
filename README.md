@@ -1,1 +1,1 @@
-python main.py
+How to run: python main.py
